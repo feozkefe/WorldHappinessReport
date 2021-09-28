@@ -11,4 +11,5 @@ What countries or regions rank the highest in overall happiness and each of the 
 Tasks
 
 •	Visualization World Happiness Report
+
 •	What makes people in a country 
